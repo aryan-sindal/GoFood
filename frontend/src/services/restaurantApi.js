@@ -1,7 +1,8 @@
+
 import axios from "axios";
 
 const restaurantApi = axios.create({
-  baseURL: "http://localhost:3000/api/restaurant",
+  baseURL: `${import.meta.env.VITE_API_URL || "http://localhost:3000/api"}/restaurant`,
   withCredentials: true,
 });
 
