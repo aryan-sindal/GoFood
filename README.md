@@ -2,6 +2,28 @@
 
 This version keeps the original customer experience largely intact and adds an isolated restaurant partner system.
 
+
+## Screenshots
+
+### Homepage
+![GoFood Homepage1](screenshots/homepage1.png)
+
+### Homepage
+![GoFood Homepage2](screenshots/homepage2.png)
+
+### Cart
+![GoFood Cart](screenshots/cart.png)
+
+### My Orders
+![GoFood My Orders](screenshots/Order_History.png)
+
+### Login
+![GoFood Restaurant Login](screenshots/Restaurant_login.png)
+
+### Restaurant Dashboard
+![GoFood Restaurant Dashboard](screenshots/Restaurant_Dashboard.png)
+
+
 ## Project structure
 
 ```text
