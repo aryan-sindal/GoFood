@@ -23,7 +23,6 @@ export default function Login() {
       window.dispatchEvent(new Event("gofood-auth-changed"));
 
       const destination = location.state?.from?.pathname || "/";
-      console.log(location);
       
       navigate(destination, { replace: true });
     } catch (err) {
